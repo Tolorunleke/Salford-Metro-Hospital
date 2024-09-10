@@ -39,7 +39,7 @@ This repository contains the resources and code for developing a comprehensive d
 
 2. **Set Up the Database**:
 - Use Microsoft SQL Server Management Studio (SSMS) to restore the provided database backup file (`SalfordMetroHospitalBackup.bak`).
-- Run the SQL scripts (`00714527_Task1.sql`) to create tables, establish relationships, and implement procedures.
+- Run the SQL scripts (`Salford_Metro.sql`) to create tables, establish relationships, and implement procedures.
 
 ### Review the Entity Relationship Diagram (ERD)
 
