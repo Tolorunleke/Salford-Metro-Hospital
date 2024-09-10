@@ -53,6 +53,5 @@ This repository contains the resources and code for developing a comprehensive d
 
 ## 📈 Future Enhancements
 
-- **Expand Security Measures**: Implement advanced encryption techniques for sensitive data.
 - **Integrate Real-Time Analytics**: Develop dashboards to provide insights into hospital operations, patient flow, and resource utilization.
 - **Optimize Performance**: Continuously monitor and optimize query performance to handle increased data volumes as the hospital grows.
