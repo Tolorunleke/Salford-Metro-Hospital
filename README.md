@@ -45,11 +45,11 @@ This repository contains the resources and code for developing a comprehensive d
 
 - Refer to the provided ERD image below to understand the database schema and relationships.
 
-   ![Entity Relationship Diagram](Salford_Hospital_ER_Diagram.png)
+    ![Entity Relationship Diagram](Salford_Hospital_ER_Diagram.png)
 
 ## 📂 Files Included
 
-- **SQL Script (`00714527_Task1.sql`)**: Contains SQL commands for creating tables, relationships, and procedures.
+- **SQL Script (`Salford_Metro.sql`)**: Contains SQL commands for creating tables, relationships, and procedures.
 - **Database Backup (`SalfordMetroHospitalBackup.bak`)**: A full backup of the database for restoration purposes.
 - **Entity Relationship Diagram (`Salford_Hospital_ER_Diagram.png`)**: Visual representation of the database schema.
 
