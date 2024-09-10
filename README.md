@@ -35,7 +35,7 @@ This repository contains the resources and code for developing a comprehensive d
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Tolorunleke/Salford-Metro-Hospital-Database.git
+   git clone https://github.com/Tolorunleke/Salford-Metro-Hospital.git
 
 2. **Set Up the Database**:
 - Use Microsoft SQL Server Management Studio (SSMS) to restore the provided database backup file (`SalfordMetroHospitalBackup.bak`).
@@ -43,9 +43,7 @@ This repository contains the resources and code for developing a comprehensive d
 
 ### Review the Entity Relationship Diagram (ERD)
 
-- Refer to the provided ERD image below to understand the database schema and relationships.
-
-    ![Entity Relationship Diagram](Salford_Hospital_ER_Diagram.png)
+- Refer to the provided ERD image "Salford_Hospital_ER_Diagram.png" to understand the database schema and relationships.
 
 ## 📂 Files Included
 
